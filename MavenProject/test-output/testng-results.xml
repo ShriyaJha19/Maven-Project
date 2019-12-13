@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45965" started-at="2019-12-11T20:04:46 EST" finished-at="2019-12-11T20:05:32 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45965" started-at="2019-12-11T20:04:46 EST" finished-at="2019-12-11T20:05:32 EST">
+      <class name="com.testscenarios.Gmail_crossBrowserTesting">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.testscenarios.Gmail_crossBrowserTesting@57855c9a]" name="beforeClass" is-config="true" duration-ms="25023" started-at="2019-12-11T20:04:46 EST" finished-at="2019-12-11T20:05:11 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.testscenarios.Gmail_crossBrowserTesting@57855c9a]" name="f" duration-ms="20727" started-at="2019-12-11T20:05:11 EST" finished-at="2019-12-11T20:05:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.testscenarios.Gmail_crossBrowserTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
